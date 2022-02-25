@@ -1,0 +1,15 @@
+current directory: /home/runner/work/test-mdbook/test-mdbook/build/vendor/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+/opt/hostedtoolcache/Ruby/2.6.9/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.9/x64/lib/ruby/2.6.0 -r ./siteconf20220225-2250-90jc34.rb extconf.rb
+creating Makefile
+
+current directory: /home/runner/work/test-mdbook/test-mdbook/build/vendor/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /home/runner/work/test-mdbook/test-mdbook/build/vendor/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.so
+
+current directory: /home/runner/work/test-mdbook/test-mdbook/build/vendor/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fast_blank.so ./.gem.20220225-2250-2sn7ia
